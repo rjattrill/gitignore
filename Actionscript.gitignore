@@ -3,6 +3,10 @@ bin/
 bin-debug/
 bin-release/
 
+#  Actionscript build artifacts
+*.swf
+*.swc
+
 # Project property files
 .actionScriptProperties
 .flexProperties
